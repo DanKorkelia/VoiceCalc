@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  VoiceCalc
 //
-//  Created by Simon Gardener on 03/07/2018.
 //  Copyright © 2018 iOS London Meetup Hackathon. All rights reserved.
 //
 
