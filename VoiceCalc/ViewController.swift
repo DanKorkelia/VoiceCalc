@@ -17,7 +17,7 @@ class ViewController: UIViewController, AVSpeechSynthesizerDelegate {
     @IBOutlet weak var testButton: UIButton!
     
     @IBOutlet weak var checkButton: UIButton!
-    var numberGenerator = random()
+    var numberGenerator = arc4random()
     var correctAnswer: Int = 0
     
     let synth = AVSpeechSynthesizer()
